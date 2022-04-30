@@ -1,0 +1,29 @@
+{
+  "name": "frontendtraining",
+  "version": "1.0.0",
+  "description": "Intro to node project ",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufiz/frontEndTraining.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rufiz Mardan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rufiz/frontEndTraining/issues"
+  },
+  "homepage": "https://github.com/rufiz/frontEndTraining#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
